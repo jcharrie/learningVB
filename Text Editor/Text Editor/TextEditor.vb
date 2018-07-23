@@ -33,7 +33,8 @@
         'Reset the font color
         txtEdit.ForeColor = Color.Black
         'Set the status bar text
-        StatusText = "Text box cleared"
+        StatusText("cleared")
+        ' StatusText = "Text box cleared"
     End Sub
 
     Private Sub tbrClear_Click(sender As Object, e As EventArgs) Handles tbrClear.Click
