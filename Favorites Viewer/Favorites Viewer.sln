@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Favorites Viewer", "Favorites Viewer\Favorites Viewer.vbproj", "{9D420FE8-95AE-42F7-B078-FE89B04CF388}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Favorites Tray", "Favorites Tray\Favorites Tray.vbproj", "{AFCBDCAE-B446-4C7D-8A63-6EB270C589C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D420FE8-95AE-42F7-B078-FE89B04CF388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D420FE8-95AE-42F7-B078-FE89B04CF388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D420FE8-95AE-42F7-B078-FE89B04CF388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D420FE8-95AE-42F7-B078-FE89B04CF388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCBDCAE-B446-4C7D-8A63-6EB270C589C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCBDCAE-B446-4C7D-8A63-6EB270C589C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCBDCAE-B446-4C7D-8A63-6EB270C589C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCBDCAE-B446-4C7D-8A63-6EB270C589C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {295F1CE0-9439-45DC-8D6D-6E3FB387A5BA}
+	EndGlobalSection
+EndGlobal
